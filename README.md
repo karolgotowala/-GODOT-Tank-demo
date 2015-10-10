@@ -1,11 +1,15 @@
 # -GODOT-Tank-demo
+
 [GODOT] Tank demo
+
 
 A simple tank control scene free to copy and use
 
 Contains:
 -tank controls
+
 -working morphed tracks
+
 -mouse control for turret
 -speed counter 
 -turret moving independently
